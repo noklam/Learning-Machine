@@ -2,8 +2,6 @@
 
 A catalog of various machine learning topics.
 
-test
-
 * [Graph Neural Network Basics](./#graph-neural-network-basics)
   * [Understand What is the weird D-1/2LD-1/2](./#understand-what-is-the-weird-dsup-12supldsup-12sup)
   * [Supplement Chinese Reading](./#supplement-chinese-reading)
